@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554402124 source:c:\users\54116\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesPereyra.h"
+
+1554350076 c:\users\54116\desktop\calculadora\operacionespereyra.h
+
+1554400372 source:c:\users\54116\desktop\calculadora\operacionespereyra.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesPereyra.h"
+
