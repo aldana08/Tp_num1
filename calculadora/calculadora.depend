@@ -16,5 +16,10 @@
 	<stdlib.h>
 	"operacionesPereyra.h"
 
-1554350076 c:\users\54116\desktop\tp\tp_num1\calculadora\operacionespereyra.h
+1554482199 c:\users\54116\desktop\tp\tp_num1\calculadora\operacionespereyra.h
+
+1554479959 source:c:\users\54116\desktop\tp\tp_num1\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacionesPereyra.h"
 

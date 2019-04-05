@@ -60,20 +60,3 @@ int factorial (int A)
     return A;
 }
 
-int menuOpciones ()
-{
-    int opcion;
-
-    printf("\n *------Menu de opciones------* \n\n");
-    printf("1- Ingresar 1er operando (A = x).\n");
-    printf("2- Ingresar 2do operando (B = y).\n");
-    printf("3- Calcular todas las operaciones.\n");
-    printf("4- Informar resultados.\n");
-    printf("5- Salir.\n");
-    printf("\n\n=============================\n\n");
-    printf("\nIngrese opcion: ");
-
-    scanf("%d",&opcion);
-
-    return opcion;
-}

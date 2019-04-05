@@ -12,7 +12,7 @@ int sumarDosNumeros(int, int);
  *
  * \param Primer numero a restar
  * \param Segundo numero a restar
- * \return Resultado de la suma
+ * \return Resultado de la resta
  *
  */
 int restarDosNumeros(int, int);
@@ -46,8 +46,3 @@ float dividirDosNumeros(int, int);
  */
 int factorial(int);
 
-/** \brief Menu de opciones para calculadora
- *
- * \return Opcion elegida
- *
- */
