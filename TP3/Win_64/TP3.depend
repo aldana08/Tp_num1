@@ -106,3 +106,56 @@
 	"Employee.h"
 	"func_Pereyra.h"
 
+1560625901 source:c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"func_Pereyra.h"
+	"parser.h"
+
+1533133022 c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\linkedlist.h
+
+1560625327 c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\employee.h
+
+1560620951 c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\func_pereyra.h
+
+1560621807 c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\parser.h
+
+1560625327 source:c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"func_Pereyra.h"
+
+1560621774 c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\controller.h
+
+1560620951 source:c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\func_pereyra.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"func_Pereyra.h"
+
+1560625697 source:c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"func_Pereyra.h"
+
+1560594812 source:c:\users\54116\desktop\tp_laboratorio_1\tp3\win_64\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"func_Pereyra.h"
+

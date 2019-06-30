@@ -15,6 +15,8 @@ Employee* employee_new()
     Employee* e_empNew = (Employee*)malloc(sizeof(Employee));
     return e_empNew;
 }
+
+
 /** \brief Devuelve el resultado de una comparación entre 2 nombres de empleado.
  *
  * \param emplA void* Primer empleado.
